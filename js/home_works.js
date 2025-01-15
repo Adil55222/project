@@ -60,10 +60,7 @@ const reset = document.querySelector('#reset')
 let count = 0
 let interval
 
-// start.addEventListener( 'click', ()=>{
-//     console.log(55)
-//
-// })
+
 
 start.onclick = function(){
     if(!interval){
